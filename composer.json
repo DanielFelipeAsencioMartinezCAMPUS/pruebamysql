@@ -1,0 +1,16 @@
+{
+    "name": "apolm01-011/pruebamysql",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./config"
+        }
+    },
+    "authors": [
+        {
+            "name": "DanielFelipeAsencioMartinezCAMPUS",
+            "email": "asencio.danielfelipe@gmail.com"
+        }
+    ],
+    "require": {}
+}
